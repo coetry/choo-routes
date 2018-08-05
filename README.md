@@ -1,5 +1,5 @@
-# choo-counter
-a pretty counter built with choo
+# choo-routes
+exploring client side routing with choo
 
 ## Commands
 Command                | Description                                      |
