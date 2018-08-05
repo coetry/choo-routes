@@ -14,6 +14,6 @@ const styles = css`
 
 module.exports = function (dst, txt) {
   return html`
-    <a class="light-red ${styles}" href="${dst}">${txt}</a>
+    <a class="near-black ${styles}" href="${dst}">${txt}</a>
   `
 }
